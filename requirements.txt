@@ -1,0 +1,3 @@
+influxdb
+pyserial
+bme680
